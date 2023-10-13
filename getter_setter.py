@@ -3,6 +3,7 @@
 
 from typing import Any, Callable
 
+
 SET = 0
 GET = 1
 
