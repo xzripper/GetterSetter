@@ -1,5 +1,5 @@
 <h1 align="center">GetterSetter.</h1>
-<p align="center"><b>Getter/Setter. Implements new syntax so you can implement getter and setter in one line.</b></p><br>
+<p align="center"><b>Getter/Setter. Implements new syntax so you can implement getter and setter in one line.<br>Originally its a part of <a href="https://github.com/xzripper/volt">volt</a> but it can be used anywhere.</b></p><br>
 
 From this:
 ```python
