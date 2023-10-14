@@ -39,7 +39,7 @@ print(my_text.text[GET])
 ```
 
 Installation:
-```pip install getter_setter``` (not implemented)
+```pip install getter_setter```
 <br><b>or</b><br>
 install ```getter_setter.py``` and move into your project directory.
 
